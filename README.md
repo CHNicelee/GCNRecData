@@ -1,0 +1,2 @@
+# GCNRecData
+dataset for GCNRec
